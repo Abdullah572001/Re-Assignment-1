@@ -241,3 +241,55 @@ main {
     background: rgba(255, 223, 0, 0.05)
 }
 /* My Current Target section end */
+
+/* My Next Target section start */
+.next-target {
+    margin-bottom: 44px;
+}
+.next-target> h3 {
+    font-size: 32px;
+    font-weight: 800;
+    color: rgba(13, 19, 33, 1);
+    margin-bottom: 24px;
+    text-align: center;
+}
+.next-target> p {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(13, 19, 33, 1);
+    margin-bottom: 48px;
+    padding: 0 170px;
+    text-align: center;
+    opacity: 0.7;
+}
+.next-target-cards {
+    padding: 40px;
+    border-radius: 16px;
+    display: flex;
+    gap: 24px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    margin-bottom: 24px;
+}
+.next-target-cards .img-1 {
+    width: 94px;
+    height: 88px;
+}
+.next-target-cards h4 {
+    font-size: 24px;
+    font-weight: 800;
+    color: rgba(13, 19, 33, 1);
+    margin-bottom: 8px;
+}
+.next-target-cards p {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(13, 19, 33, 1);
+    opacity: 0.7;
+    margin-bottom: 24px;
+}
+.next-target-cards a {
+    font-size: 16px;
+    font-weight: 700;
+    color: rgba(13, 19, 33, 1);
+}
+/* My Next Target section end */
